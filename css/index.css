@@ -39,7 +39,7 @@ img {
     left: 0;
     right: 0;
     top: 0;
-    background-color: blue !important;
+    background-color: #fff;
     box-shadow: 2px 2px 10px #000;
 }
 .navbar .container {
